@@ -1,0 +1,838 @@
+{"level":30,"time":"2022-02-11T13:08:15.573Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Listening on 50743"}
+{"level":30,"time":"2022-02-11T13:08:15.780Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-02-11T13:08:16.033Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-02-11T13:08:16.036Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method newContext"}
+{"level":30,"time":"2022-02-11T13:08:16.036Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-02-11T13:08:16.036Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Trace file: "}
+{"level":30,"time":"2022-02-11T13:08:16.045Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Changed active context"}
+{"level":30,"time":"2022-02-11T13:08:16.045Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method newContext"}
+{"level":30,"time":"2022-02-11T13:08:16.047Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-02-11T13:08:16.047Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-02-11T13:08:16.119Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Video path: undefined"}
+{"level":30,"time":"2022-02-11T13:08:16.119Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Changed active page"}
+{"level":30,"time":"2022-02-11T13:08:17.380Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method newPage"}
+{"level":30,"time":"2022-02-11T13:08:17.382Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.382Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.416Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.610Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:17.610Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.633Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:17.634Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.634Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-2\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.651Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.653Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:17.653Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.669Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:17.671Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:17.671Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.696Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:17.697Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.697Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.727Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.729Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:17.729Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.804Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:17.806Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:17.806Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.808Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:17.809Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.809Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.839Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.840Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:17.841Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.842Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:17.843Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:17.843Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:17.849Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:17.837Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-VWYERQWESO</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:17.849Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:17.949Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:17.950Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.008Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.083Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.083Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.103Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.104Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.104Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.117Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.118Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.118Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-1\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.130Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.131Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.131Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.145Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.146Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.146Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.171Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.173Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.173Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.197Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.198Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:18.198Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.248Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:18.249Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.249Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.250Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.251Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.251Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.273Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.274Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.274Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.275Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.276Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:18.276Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.281Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:18.275Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-3FI75LRGDN</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:18.281Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:18.377Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.377Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.442Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.469Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.469Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.493Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.494Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.494Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.507Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.508Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.508Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-2\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.519Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.520Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.520Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.532Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.533Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.533Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.559Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.561Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.561Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.588Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.589Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:18.589Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.656Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:18.658Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.658Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.659Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.660Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.660Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.683Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.684Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.684Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.685Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:18.686Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:18.686Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.690Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:18.685Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-D1AO469YI</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:18.690Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:18.787Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.787Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.840Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.893Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.893Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.930Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.931Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.931Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.942Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:18.943Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.943Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-3\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.959Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:18.960Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.960Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:18.976Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.977Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:18.977Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.000Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.001Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.001Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.023Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.024Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.024Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.073Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.074Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.074Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.075Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.076Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.076Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.099Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.100Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.100Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.101Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.102Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:19.102Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.108Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:19.101Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5JFYTWBUZH</p><p>Address 1</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:19.108Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:19.205Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.205Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.258Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.288Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.288Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.313Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.314Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:19.314Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.327Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:19.328Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.328Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-5\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.338Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.339Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.339Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.352Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.353Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.353Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.377Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.378Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.378Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.398Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.399Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.399Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.448Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.449Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.449Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.451Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.451Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.451Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.474Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.475Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.475Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.476Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.477Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.477Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.500Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.501Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.501Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.502Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.503Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.503Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.523Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.524Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.524Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.525Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.526Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:19.526Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.531Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:19.524Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-WE2SDK7EKN</p><p>Address 2</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:19.531Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:19.625Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.625Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.675Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.702Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.702Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.721Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.722Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:19.722Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.733Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:19.734Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.734Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-6\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.750Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.751Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.751Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.763Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.764Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.764Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.787Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:19.788Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.788Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.807Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.808Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.808Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.861Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:19.862Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.862Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.863Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.864Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.864Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.885Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.886Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.886Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.888Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.889Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.889Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.917Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:19.918Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.918Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.919Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:19.919Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:19.919Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:19.923Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:19.919Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-BF7PE251M5</p><p>Address 3</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 6</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:19.924Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:20.017Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.017Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.068Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.103Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.104Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.124Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.125Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.125Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.136Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.137Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.137Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-1\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.150Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.151Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.151Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.164Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.165Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.165Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.187Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.188Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.188Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.211Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.212Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:20.212Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.275Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:20.277Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.277Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.278Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.279Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.279Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.300Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.301Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.301Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.302Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.303Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:20.303Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.307Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:20.302Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5GUSVV02CL</p><p>Address 4</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:20.307Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:20.403Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.404Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.450Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.493Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.493Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.513Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.514Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.514Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.526Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.527Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.527Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-3\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.539Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.540Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.540Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.552Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.554Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.554Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.578Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.579Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.579Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.600Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.601Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:20.601Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.678Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:20.679Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.679Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.680Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.681Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.681Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.703Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.704Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.704Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.705Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:20.705Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:20.705Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.709Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:20.705Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-HAU29XNRDG</p><p>Address 5</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:20.710Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:20.805Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.805Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.858Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.921Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.922Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.943Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.944Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.944Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.956Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:20.957Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.957Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-2\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.970Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:20.971Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.971Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:20.984Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.985Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:20.985Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.009Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.010Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.010Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.031Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.032Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.032Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.096Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.098Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.098Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.099Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.100Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.100Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.120Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.120Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.121Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.121Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.122Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:21.122Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.126Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:21.122Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-WHMWIF1JCS</p><p>Address 6</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:21.126Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:21.237Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.237Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.283Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.342Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.342Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.360Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.361Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:21.361Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.373Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:21.374Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.374Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-4\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.387Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.388Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.388Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.400Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.401Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.401Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.423Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.424Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.424Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.447Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.448Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.448Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.502Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.504Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.504Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.505Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.505Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.505Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.530Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.531Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.531Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.532Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.533Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.533Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.555Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.556Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.556Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.557Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.558Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:21.558Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.562Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:21.558Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-Z5XSDVJXAM</p><p>Address 7</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 4</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:21.563Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:21.659Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.659Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.708Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.747Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.747Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.771Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.772Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:21.772Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.789Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:21.790Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.790Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-6\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.811Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.812Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.812Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.823Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.824Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.824Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.847Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:21.848Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.848Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.873Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.874Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.874Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.929Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:21.931Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.931Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.932Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.933Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.933Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.953Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:21.954Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.954Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.955Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:21.955Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:21.956Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:21.960Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:21.955Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-4DXWS79LW</p><p>Address 8</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 6</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:21.960Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:22.054Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.054Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.105Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.152Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.152Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.174Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.175Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:22.175Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.186Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:22.187Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.187Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-3\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.199Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.200Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.200Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.212Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.213Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.214Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.236Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.237Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.237Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.260Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.261Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:22.261Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.325Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:22.326Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.326Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.328Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.329Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.329Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.347Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.348Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.348Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.349Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.350Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.350Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.367Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.367Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.367Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.368Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.369Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.369Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.389Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.390Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.390Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.392Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.392Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:22.392Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.397Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:22.392Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-AHJIXAOQCE7</p><p>Address 9</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:22.397Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:22.492Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.492Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.542Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.600Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.600Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.617Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.618Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:22.618Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.629Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:22.630Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.630Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-5\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.644Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.645Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.645Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.657Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.658Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.658Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.680Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:22.681Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.681Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.703Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.704Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:22.704Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.771Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:22.773Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.773Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.774Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.775Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.775Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.793Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.794Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.794Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.795Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:22.796Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:22.796Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.800Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:22.795Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-T9QI0J4HJM</p><p>Address A</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 5</div><div>Legs: 4</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:22.800Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:22.895Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.895Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:22.946Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.993Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:22.993Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.014Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.015Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.015Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.030Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.031Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.031Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-1\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.039Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.040Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.041Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.052Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.053Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.054Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.075Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.076Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.076Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.101Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.102Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:23.102Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.162Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:23.163Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.163Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.164Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.164Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.164Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.189Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.190Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.190Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.191Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.192Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.192Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.209Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.210Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.210Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.211Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.212Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:23.212Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.216Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:23.211Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-3MLSJL1YYF</p><p>Address B</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:23.216Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:23.311Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.311Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.360Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.416Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.416Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.437Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.438Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.438Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.449Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.450Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.450Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-2\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.463Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.464Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.464Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.477Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.478Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.478Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.498Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.499Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.500Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.523Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.524Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:23.524Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.589Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:23.590Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.590Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.591Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.592Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.592Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.611Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.612Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.612Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.613Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.614Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.614Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.632Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.633Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.633Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.634Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:23.634Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:23.634Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.638Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:23.635Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-EJ07HPX2W</p><p>Address C</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:23.638Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:23.733Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.733Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.784Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.843Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.843Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.860Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.861Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.861Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.872Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:23.873Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.873Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-3\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.886Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.888Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.888Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.899Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.900Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.900Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.923Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:23.924Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.924Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:23.947Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:23.948Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:23.948Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.011Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:24.012Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.012Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.013Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.014Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.014Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.036Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.037Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.037Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.038Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.039Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.039Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.043Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:24.038Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-ZHBQ9SBTZ</p><p>Address D</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 3</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:24.043Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.137Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.137Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.186Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.239Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.239Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.265Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.266Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:24.266Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.282Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:24.283Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.283Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-4\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.303Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.304Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.304Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.316Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.317Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.317Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.339Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.340Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.340Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.364Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.365Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:24.365Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.423Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:24.425Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.425Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.426Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.427Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.427Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.444Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.445Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.446Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.446Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.447Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.447Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.465Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.466Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.466Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.466Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.467Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.467Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.471Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:24.468Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-ULPFWR3U3H</p><p>Address E</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 4</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:24.471Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.565Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.565Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.609Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.659Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.660Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.679Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.680Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:24.680Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.691Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:24.692Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.692Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-5\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.706Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.707Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.707Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.719Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.720Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.720Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.742Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:24.743Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.743Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.766Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.767Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:24.767Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.831Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:24.832Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.832Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.833Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.834Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.834Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.855Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.856Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.857Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.857Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:24.858Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.858Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:24.862Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:24.858Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-KOBUSMOSXF</p><p>Address F</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:24.862Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:24.957Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:24.957Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.007Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.060Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.060Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.082Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.083Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:25.083Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.094Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:25.095Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.095Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-6\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.109Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.109Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.110Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.121Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.123Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.123Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.144Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.145Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.145Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.169Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.170Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:25.170Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.229Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:25.230Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.230Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.231Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.232Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.232Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.251Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.252Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.252Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.253Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.254Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.254Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.269Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.270Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.270Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.271Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.271Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.271Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.290Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.290Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.291Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.291Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.292Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.292Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.312Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.312Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.312Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.314Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.315Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:25.315Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.318Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:25.314Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-GD61LE2FAL</p><p>Address G</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 6</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:25.319Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:25.413Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.413Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.465Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.513Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.513Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.534Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.536Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:25.536Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//select[@id=\"head\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.553Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-02-11T13:08:25.554Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.554Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"id-body-1\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.574Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.575Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.575Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[contains(@placeholder, \"Enter the part number for the legs\")] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.587Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.588Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.588Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//input[@id=\"address\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.611Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method typeText"}
+{"level":30,"time":"2022-02-11T13:08:25.612Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.612Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.636Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.637Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:25.637Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"robot-preview\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.693Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-02-11T13:08:25.695Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.695Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.696Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.697Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.697Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.716Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.717Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.717Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.717Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.718Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.718Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.736Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.737Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.737Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is disabled, return Locator: xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.738Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-02-11T13:08:25.738Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:25.738Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//div[@id=\"receipt\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.742Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Retrieved dom property for element xpath=//div[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-02-11T13:08:25.739Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-XLLVFD77YA</p><p>Address H</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-02-11T13:08:25.742Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-02-11T13:08:25.851Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.851Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[@id=\"order-another\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.896Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.943Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.943Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"OK\"] in page."}
+{"level":30,"time":"2022-02-11T13:08:25.964Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method click"}
+{"level":30,"time":"2022-02-11T13:08:25.965Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-02-11T13:08:26.088Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-02-11T13:08:26.194Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-02-11T13:08:26.194Z","pid":14744,"hostname":"DESKTOP-G2VGKHT","msg":"End of node method closeAllBrowsers"}
