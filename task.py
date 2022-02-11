@@ -9,7 +9,7 @@ import sys
 import shutil
 
 os.environ["RPA_SECRET_MANAGER"]="RPA.Robocorp.Vault.FileSecrets"
-os.environ["RPA_SECRET_FILE"]=r"C:\Users\Aleksi\Documents\Projektit\robocorp\rsb-robot\vault.json"
+os.environ["RPA_SECRET_FILE"]=fr"{os.getcwd()}\vault.json"
 
 logger = logging.getLogger(__name__)
 
